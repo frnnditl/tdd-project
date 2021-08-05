@@ -1,0 +1,1 @@
+O que acontece basicamente é que ao se escrever um teste funcional, caso ele não passe no ciclo da imagem até passar, e quando passa, uma possível refatoração é feita.
