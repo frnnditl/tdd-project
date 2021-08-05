@@ -1,0 +1,3 @@
+Teste de unidade - É um teste de uma unidade individual, como um método (função) em uma classe, com todas as dependências simuladas.
+
+Teste Funcional - Testa uma fatia da funcionalidade em um sistema. Isso testará muitos métodos e pode interagir com dependências como bancos de dados ou serviços da Web.
